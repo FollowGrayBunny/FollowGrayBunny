@@ -1,4 +1,5 @@
 
+![Coniglio grigio che corre](images/GrayBunny.png)
 
 - 👋 Hi, I’m @FollowGrayBunny ➡️ 🐰 My name is Ivan.
 - 👀 I’m interested in Operating Systems, Game Development, Computer Networks and much more...
