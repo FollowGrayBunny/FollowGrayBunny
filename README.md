@@ -1,5 +1,5 @@
 
-![Coniglio grigio che corre](GrayBunny.png)
+<img src="GrayBunny.png" alt="My Logo it's a running Gray Bunny" width="300">
 
 - 👋 Hi, I’m @FollowGrayBunny ➡️ 🐰 My name is Ivan.
 - 👀 I’m interested in Operating Systems, Game Development, Computer Networks and much more...
